@@ -1,10 +1,10 @@
-
+import Body from "./components/Body"
 
 function App() {
 
   return (
     <>
-      hello
+      <Body/>
     </>
   )
 }
